@@ -1,4 +1,4 @@
-FROM apluslms/grade-python:latest
+FROM apluslms/grade-python:3.9-4.8-4.6
 
 ARG PYSAT_VERSION=0.1.8.dev7
 
